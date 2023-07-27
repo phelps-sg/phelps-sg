@@ -27,6 +27,7 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on [AI](http
 <img src="https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&style=for-the-badge&logoColor=white" />
+<img srs="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)" />
