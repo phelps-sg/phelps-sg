@@ -1,4 +1,4 @@
-<img src="./banner.jpg" alt="Steve Phelps" />
+<img src="./sphelps.jpg" alt="Steve Phelps" />
 
 ### About Me
 
