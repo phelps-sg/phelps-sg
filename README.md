@@ -11,6 +11,9 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on [AI](http
 <a href="https://sphelps.net/">
 <img src="https://img.shields.io/badge/check%20out%20my%20Portfolio-042549?style=for-the-badge&logo=moleculer&logoColor=white" alt="portfolio" />
 </a>
+<a href="https://scholar.google.com/citations?user=lKgfiRYAAAAJ&hl=en">
+<img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
+</a>
 </div>
 
 ### Languages, Tools, and Skills 🛠
