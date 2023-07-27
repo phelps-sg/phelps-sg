@@ -1,4 +1,3 @@
-<img src="./sphelps.jpg" alt="Steve Phelps" />
 
 ### About Me
 
