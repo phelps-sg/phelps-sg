@@ -14,6 +14,9 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on [AI](http
 <a href="https://scholar.google.com/citations?user=lKgfiRYAAAAJ&hl=en">
 <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
 </a>
+<a href="https://uk.linkedin.com/in/steve-phelps-203270">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
 
 ### Languages, Tools, and Skills 🛠
