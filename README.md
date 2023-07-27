@@ -17,14 +17,14 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on [AI](http
 <div align="center">
   
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
 <img src="https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&style=for-the-badge&logoColor=white" />  
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react" />
 <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="node.js" />
 <img src="https://img.shields.io/badge/R-39457E.svg?logo=R&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-%23000.svg?logo=flask&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" />
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css" />
