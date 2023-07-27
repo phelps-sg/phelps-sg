@@ -2,6 +2,12 @@
 
 ### About Me
 
+Highly skilled Full-Stack Engineer and Data Scientist with over 15 years of experience in software
+development, data engineering, and AI. Highly proficient in Python, Java, Scala, Node.js
+devops and Linux, with a proven track record of developing innovative solutions for clients across
+various industries. Adept at mentoring junior team members and collaborating with
+multidisciplinary teams to deliver high-quality, scalable software solutions. Strong expertise in data
+science, with a focus on AI, langchain, big data analytics, and FinTech.
 
 <div align="center">
 <a href="https://sphelps.net/">
