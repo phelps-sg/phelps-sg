@@ -4,7 +4,7 @@ Highly skilled Researcher, Full-Stack Engineer and Data Scientist with over 20 y
 development, data engineering, and AI. Highly proficient in Python, Java, Scala, Node.js
 devops and Linux, with a proven track record of developing innovative solutions for clients across
 various industries. Adept at mentoring junior team members and collaborating with
-multidisciplinary teams to deliver high-quality, scalable software solutions. Strong expertise in [data
+multidisciplinary teams to deliver high-quality, scalable software solutions using [continuous delivery](https://www.continuous-delivery.co.uk/).  Strong expertise in [data
 science](https://github.com/phelps-sg/python-bigdata), with a focus on [AI](https://github.com/phelps-sg/learning-market-maker), [LLM agents](https://github.com/phelps-sg/llm-cooperation), [big data analytics](https://github.com/phelps-sg/scobre), [network analysis](http://167.172.101.219:3000/vis-network.html), and [FinTech](https://github.com/phelps-sg/hadoopcryptoledger-plus).
 
 <div align="center">
