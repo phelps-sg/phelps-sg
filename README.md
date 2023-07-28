@@ -10,8 +10,8 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on:
 - [LLM agents](https://github.com/phelps-sg/llm-cooperation),
 - [big data analytics](https://github.com/phelps-sg/scobre),
 - [network analysis](http://167.172.101.219:3000/vis-network.html),
-- [agent-based modelling](https://github.com/phelps-sg/jasa),
-- and [FinTech](https://github.com/phelps-sg/hadoopcryptoledger-plus).
+- [agent-based modelling](https://github.com/phelps-sg/jasa), and
+- [FinTech](https://github.com/phelps-sg/hadoopcryptoledger-plus).
 
 <div align="center">
 <a href="https://sphelps.net/">
