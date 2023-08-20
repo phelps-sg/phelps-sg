@@ -1,7 +1,7 @@
 
 ### Steve Phelps
 Highly skilled Researcher, Full-Stack Engineer and Data Scientist with over 20 years of experience in software
-development, data engineering, and AI. Highly proficient in Python, Java, Scala, Node.js
+development, data engineering, and AI. Highly proficient in Python, Java, Scala, Javascript,
 devops and Linux, with a proven track record of developing innovative solutions for clients across
 various industries. Adept at mentoring junior team members and collaborating with
 multidisciplinary teams to deliver high-quality, scalable software solutions using [continuous delivery](https://www.continuous-delivery.co.uk/).  Strong expertise in [data
