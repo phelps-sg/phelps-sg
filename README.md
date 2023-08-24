@@ -11,7 +11,7 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on:
 - [big data analytics](https://github.com/phelps-sg/scobre),
 - [network analysis](http://167.172.101.219:3000/vis-network.html),
 - [agent-based modelling](https://github.com/phelps-sg/jabm), and
-- [FinTech](https://github.com/phelps-sg/hadoopcryptoledger-plus).
+- [FinTech](https://github.com/stars/phelps-sg/lists/fintech).
 
 <div align="center">
 <a href="https://sphelps.net/">
