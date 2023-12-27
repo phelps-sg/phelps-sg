@@ -10,7 +10,7 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on:
 - [LLM agents](https://github.com/phelps-sg/llm-cooperation),
 - [big data analytics](https://github.com/phelps-sg/scobre),
 - [network analysis](http://167.172.101.219:3000/vis-network.html),
-- [agent-based modelling](https://github.com/phelps-sg/jabm), and
+- [agent-based modelling](https://github.com/stars/phelps-sg/lists/abm), and
 - [FinTech](https://github.com/stars/phelps-sg/lists/fintech).
 
 <div align="center">
