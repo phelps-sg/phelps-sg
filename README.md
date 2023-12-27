@@ -74,7 +74,7 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on:
         <td width="50%" style="border: none !important;">
         <div align="center" width="100%">
           <a href="https://github.com/phelps-sg">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelps-sg&layout=compact&hide_border=true&langs_count=6" alt="Steve's Language Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelps-sg&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Steve's Language Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
@@ -82,7 +82,7 @@ science](https://github.com/phelps-sg/python-bigdata), with a focus on:
         <div align="center" width="100%">
           <a href="https://github.com/phelps-sg">
             <!-- <img src="https://awesome-github-stats.azurewebsites.net/user-stats/phelps-sg?cardType=github&theme=github" alt="Steve's GitHub Stats" /> -->
-            <img src="https://github-readme-stats.vercel.app/api?username=phelps-sg&show_icons=true&hide=stars&hide_border=true" alt="Jeffrey's GitHub Stats" vertical-align="middle"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=phelps-sg&show_icons=true&hide=stars&hide_border=true&theme=tokyonight" alt="Steve's GitHub Stats" vertical-align="middle"/>
           </a>
         </div>
         </td>
